@@ -31,7 +31,7 @@
 		font-size:30px;
 		line-height:28px;
 	}
-	.tg-themetabnav li a {padding: 0 30px 18px 0;}
+	.tg-themetabnav li a {padding: 0 25px 10px 0;}
 	.tg-whatwedo .tg-title h3 {
 		font-size: 29px;
 		line-height: 36px;
@@ -308,7 +308,11 @@
 	.tg-bgaboutus {background:none;}
 	.tg-bgaboutusvthree{background:#edf7ff;}
 	.tg-aboutus {padding: 0}
-	.tg-aboutcreative{padding:0 0 120px;}
+	.tg-aboutcreative{
+		padding:0 0 120px;
+		margin-left: 15px;
+		margin-right: 15px;
+	}
 	.tg-aboutskills {padding: 120px 0;}
 	.tg-aboutusvtwo h2{margin:0 0 30px;}
 	.tg-reactortitle h2 {
@@ -729,7 +733,11 @@
 	.tg-bgaboutus{background:none;}
 	.tg-aboutus {padding: 0 20% 0 0;}
 	.tg-aboutus .tg-description {padding: 0 0 30px;}
-	.tg-aboutcreative{padding:0 0 120px;}
+	.tg-aboutcreative{
+		padding:0 0 120px;
+		margin-left: 15px;
+		margin-right: 15px;
+	}
 	.tg-aboutskills {padding: 120px 0;}
 	.tg-themefeaturesvtwo{padding:0;}
 	.tg-pkgplan{margin:15px 0;}
@@ -1033,7 +1041,11 @@
 		line-height: 25px;
 	}
 	.tg-aboutus{padding:0;}
-	.tg-aboutcreative{padding:0 0 120px;}
+	.tg-aboutcreative{
+		padding:0 0 120px;
+		margin-left: 15px;
+		margin-right: 15px;
+	}
 	.tg-aboutskills {padding: 120px 0;}
 	.tg-by {
 		width: 100%;
